@@ -1,0 +1,14 @@
+Reading Layer Conversion File 
+Reading DXF file...
+NOTE: Replacing illegal character * with X in *Model_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space.
+done.
+Layer conversion file: C:/Users/Yuan/Desktop/afmerll_l.cnv
+DXF file: C:/Users/Yuan/Desktop/afmerll.dxf
+BRD file: F:/PCBTest/PCB812/PCBLIB/#Taaaaab00704.dra
+Update existing design?: NO
+Use default text?: NO
+DXF units: MILLIMETERS
+Design units: MILLIMETERS
+Design precision: 4
+dxf2a complete.

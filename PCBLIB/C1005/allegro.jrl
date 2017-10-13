@@ -1,0 +1,110 @@
+\t (00:00:03) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:03)     Journal start - Sat Sep 09 11:12:01 2017
+\t (00:00:03)         Host=YUAN User=Yuan Pid=15888 CPUs=4
+\t (00:00:03) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Database opened: F:/PCBTest/PCB812/PCBLIB/C1005/R1005.dra
+   (00:00:05) Loading cmds.cxt 
+\i (00:00:05) trapsize 238
+\i (00:00:05) trapsize 231
+\i (00:00:05) trapsize 239
+\i (00:00:06) trapsize 190
+\i (00:00:06) trapsize 190
+\i (00:00:06) generaledit 
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -0.2597 0.3532
+\i (00:00:07) trapsize 95
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -0.2616 0.3533
+\i (00:00:07) trapsize 48
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -0.2569 0.3533
+\i (00:00:07) trapsize 24
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -0.2555 0.3533
+\i (00:00:08) trapsize 48
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -0.2555 0.3534
+\i (00:00:08) trapsize 95
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -0.2555 0.3534
+\i (00:00:08) trapsize 190
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -0.2554 0.3534
+\i (00:00:08) trapsize 381
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -0.2554 0.3534
+\i (00:00:08) trapsize 762
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -0.2555 0.3534
+\i (00:00:08) trapsize 1523
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 3.2246 3.6815
+\i (00:00:08) trapsize 3046
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 11.4492 12.3631
+\i (00:00:08) trapsize 6092
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 27.8985 29.7261
+\i (00:00:08) trapsize 12185
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 5.9662 23.9994
+\i (00:00:09) trapsize 24369
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 16.9323 52.9988
+\i (00:00:09) trapsize 48736
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -5.0000 -4.0253
+\i (00:00:09) trapsize 24368
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -5.0000 -4.0252
+\i (00:00:09) trapsize 12184
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -5.0000 -4.0252
+\i (00:00:09) trapsize 6092
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -4.8782 -3.9033
+\i (00:00:09) trapsize 3046
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -4.5127 -3.6596
+\i (00:00:10) trapsize 1523
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -2.3805 -0.9486
+\i (00:00:10) trapsize 762
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in -2.2131 -0.7506
+\i (00:00:11) trapsize 381
+\i (00:00:14) open 
+\i (00:00:26) fillin "F:\PCBTest\BaiduNetdiskDownload\LPC812Layout\LPC812.brd"
+\i (00:00:26) cd "F:\PCBTest\BaiduNetdiskDownload\LPC812Layout"
+\t (00:00:26) Opening existing design...
+\i (00:00:30) fillin yes 
+\t (00:00:30) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:00:30) trapsize 2659
+\i (00:00:30) trapsize 2584
+\i (00:00:30) trapsize 2659
+\i (00:00:30) trapsize 3445
+\i (00:00:30) trapsize 3445
+\t (00:00:30)     Journal end - Sat Sep 09 11:12:28 2017

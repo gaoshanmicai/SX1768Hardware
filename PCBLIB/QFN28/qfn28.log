@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : qfn28.dra                                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Jun 05 22:10:40 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/PCBTest/PCB812/PCBLIB/QFN28
+    Name      = qfn28.psm
+    User      = Yuan
+    Machine   = YUAN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

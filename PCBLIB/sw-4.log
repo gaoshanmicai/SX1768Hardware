@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SW-4.dra                                      )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Sep 05 23:17:46 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/PCBTest/PCB812/PCBLIB
+    Name      = sw-4.psm
+    User      = Yuan
+    Machine   = YUAN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

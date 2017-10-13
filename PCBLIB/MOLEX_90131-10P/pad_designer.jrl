@@ -1,0 +1,109 @@
+\t (00:00:00) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (00:00:00)     Journal start - Tue Sep 05 21:43:48 2017
+\t (00:00:00)         Host=YUAN User=Yuan Pid=12084 CPUs=4
+\t (00:00:00) 
+\i (00:00:03) setwindow form.padedit
+\i (00:00:03) FORM padedit units Millimeter 
+\i (00:00:05) fillin yes 
+\w (00:00:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:28) FORM padedit hole_size_x 0.83000 
+\i (00:00:31) FORM padedit drill_fig Circle 
+\i (00:00:35) FORM padedit characters C 
+\i (00:00:37) FORM padedit drill_width 1.0000 
+\i (00:00:39) FORM padedit drill_height 1.0000 
+\i (00:00:43) FORM padedit layers  
+\i (00:00:44) FORM padedit grid row begin_layer 
+\i (00:00:46) FORM padedit geometry Circle 
+\i (00:00:56) FORM padedit width 1.2000 
+\i (00:00:58) FORM padedit crossbox YES 
+\i (00:01:00) FORM padedit stackbox YES 
+\i (00:01:02) FORM padedit grid rpopup begin_layer Copy 
+\i (00:01:03) FORM padedit grid row default_internal 
+\i (00:01:04) FORM padedit grid rpopup default_internal Paste 
+\i (00:01:07) FORM padedit grid rpopup end_layer Paste 
+\i (00:01:08) FORM padedit grid row soldermask_top 
+\i (00:01:09) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:01:10) FORM padedit grid row soldermask_bottom 
+\i (00:01:11) FORM padedit grid rpopup soldermask_bottom Paste 
+\i (00:01:12) FORM padedit grid row pastemask_top 
+\i (00:01:13) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:01:14) FORM padedit grid row pastemask_bottom 
+\i (00:01:16) FORM padedit grid rpopup pastemask_bottom Paste 
+\i (00:01:17) FORM padedit grid row soldermask_bottom 
+\i (00:01:17) FORM padedit grid row soldermask_top 
+\i (00:01:21) FORM padedit width 1.3000 
+\i (00:01:28) pse_save_as 
+\i (00:01:42) fillin "F:\PCBTest\PCB812\PCBLIB\hole83.pad"
+\i (00:05:42) FORM padedit geometry Square 
+\i (00:05:44) FORM padedit grid row soldermask_top 
+\i (00:05:46) FORM padedit grid rpopup soldermask_top Copy 
+\i (00:05:48) FORM padedit grid row soldermask_bottom 
+\i (00:05:50) FORM padedit grid row soldermask_top 
+\i (00:05:51) FORM padedit grid row soldermask_bottom 
+\i (00:05:56) FORM padedit grid row end_layer 
+\i (00:05:57) FORM padedit grid row soldermask_top 
+\i (00:06:00) FORM padedit geometry Circle 
+\i (00:06:02) FORM padedit grid row soldermask_bottom 
+\i (00:06:07) FORM padedit width 1.300 
+\i (00:06:11) pse_save 
+\i (00:06:16) FORM padedit grid row begin_layer 
+\i (00:06:20) FORM padedit geometry Square 
+\i (00:06:23) FORM padedit grid rpopup begin_layer Copy 
+\i (00:06:24) FORM padedit grid row default_internal 
+\i (00:06:28) FORM padedit grid rpopup default_internal Paste 
+\i (00:06:28) FORM padedit grid row end_layer 
+\i (00:06:30) FORM padedit grid rpopup end_layer Paste 
+\i (00:06:35) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:06:36) FORM padedit grid row soldermask_bottom 
+\i (00:06:37) FORM padedit grid rpopup soldermask_bottom Paste 
+\i (00:06:41) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:06:43) FORM padedit grid rpopup pastemask_bottom Paste 
+\i (00:06:43) FORM padedit grid row pastemask_top 
+\i (00:06:44) FORM padedit grid row soldermask_top 
+\i (00:06:48) FORM padedit width 1.3000 
+\i (00:06:49) FORM padedit grid row soldermask_bottom 
+\i (00:06:52) FORM padedit width 1.3000 
+\i (00:06:58) pse_save_as 
+\i (00:07:13) fillin "F:\PCBTest\PCB812\PCBLIB\hole83sq.pad"
+\i (00:08:05) FORM padedit grid row begin_layer 
+\i (00:08:14) FORM padedit width 1.6000 
+\i (00:08:19) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:08:24) setwindow form.padcopy
+\i (00:08:24) FORM padcopy pse_copy_therm_pad NO 
+\i (00:08:24) FORM padcopy pse_copy_anti_pad NO 
+\i (00:08:28) FORM padcopy pse_copy_soldermask YES 
+\i (00:08:29) FORM padcopy pse_copy_pastemask YES 
+\i (00:08:32) FORM padcopy pse_copy_done  
+\i (00:08:36) setwindow form.padedit
+\i (00:08:36) FORM padedit grid row soldermask_top 
+\i (00:08:40) FORM padedit width 1.7000 
+\i (00:08:42) FORM padedit grid row soldermask_bottom 
+\i (00:08:48) FORM padedit width 1.7000 
+\i (00:08:55) pse_save 
+\i (00:09:28) pse_open F:/PCBTest/PCB812/PCBLIB/hole83sq.pad 
+\i (00:09:31) FORM padedit grid row begin_layer 
+\i (00:09:33) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:09:35) setwindow form.padcopy
+\i (00:09:35) FORM padcopy pse_copy_therm_pad NO 
+\i (00:09:35) FORM padcopy pse_copy_anti_pad NO 
+\i (00:09:36) FORM padcopy pse_copy_soldermask YES 
+\i (00:09:37) FORM padcopy pse_copy_pastemask YES 
+\i (00:09:37) FORM padcopy pse_copy_done  
+\i (00:09:42) setwindow form.padedit
+\i (00:09:42) FORM padedit width 1.6000 
+\i (00:09:45) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:09:47) setwindow form.padcopy
+\i (00:09:47) FORM padcopy pse_copy_therm_pad NO 
+\i (00:09:48) FORM padcopy pse_copy_anti_pad NO 
+\i (00:09:48) FORM padcopy pse_copy_soldermask YES 
+\i (00:09:49) FORM padcopy pse_copy_pastemask YES 
+\i (00:09:50) FORM padcopy pse_copy_done  
+\i (00:09:52) setwindow form.padedit
+\i (00:09:52) FORM padedit grid row soldermask_top 
+\i (00:09:56) FORM padedit width 1.7000 
+\i (00:09:59) FORM padedit grid row soldermask_bottom 
+\i (00:10:04) FORM padedit width 1.7000 
+\i (00:10:09) pse_save 
+\i (00:10:11) fillin yes 
+\i (00:10:17) pse_open F:/PCBTest/PCB812/PCBLIB/hole83.pad 
+\t (00:10:17)     Journal end - Tue Sep 05 21:54:06 2017

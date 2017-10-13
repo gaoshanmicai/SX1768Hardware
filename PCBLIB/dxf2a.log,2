@@ -1,0 +1,16 @@
+Reading Layer Conversion File 
+Reading DXF file...
+NOTE: Replacing illegal character * with X in *Model_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space0.
+done.
+WARNING: Ignoring zero length segment at (154.7195, 67.4717)
+Layer conversion file: E:/я╦ювобть/RF1_l.cnv
+DXF file: E:/я╦ювобть/RF1.dxf
+BRD file: F:/PCBTest/PCB812/PCBLIB/#Taaaaad11216.dra
+Update existing design?: NO
+Use default text?: NO
+DXF units: MILLIMETERS
+Design units: MILS
+Design precision: 4
+dxf2a complete.

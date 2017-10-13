@@ -1,0 +1,41 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Compose Shapes                                                   )
+(                                                                     )
+(    Drawing          : fshape.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Jul 08 17:10:12 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+current class name(ETCH)
+Find smallest gap failed. Be cautious, this may not be an error
+Retrieve closedLoop with segments (nil) failed
+Get shape struct returns nil
+A total of 0 shapes were created.
+There are segments remaining which do not form a closed shape based on current gap settings.
+Use the "Close Shape" option from the RMB popup to close any shape(s) left open.
+current class name(ETCH)
+Find smallest gap failed. Be cautious, this may not be an error
+Retrieve closedLoop with segments (nil) failed
+Info: Can not start path from (dbid:177932352 dbid:177932312 dbid:177932272 dbid:177932232 dbid:177932192 dbid:177932152 dbid:177932112 dbid:177932072 dbid:177932032 dbid:177931992 dbid:177931952 dbid:177931912 dbid:177931872 dbid:177931832 dbid:177931792 dbid:177931752 dbid:177931712 dbid:177931672 dbid:177931632 dbid:177931592 dbid:177931552 dbid:177931512 dbid:177932392)
+Info: Can not start path from (dbid:177932352 dbid:177932312 dbid:177932272 dbid:177932232 dbid:177932192 dbid:177932152 dbid:177932112 dbid:177932072 dbid:177932032 dbid:177931992 dbid:177931952 dbid:177931912 dbid:177931872 dbid:177931832 dbid:177931792 dbid:177931752 dbid:177931712 dbid:177931672 dbid:177931632 dbid:177931592 dbid:177931552 dbid:177931512 dbid:177932392)
+A total of 1 shapes were created.
+There are segments remaining which do not form a closed shape based on current gap settings.
+Use the "Close Shape" option from the RMB popup to close any shape(s) left open.
+current class name(ETCH)
+Retrieve closedLoop with segments (nil) failed
+Info: Can not start path from (dbid:177932352 dbid:177932312 dbid:177932272 dbid:177932232 dbid:177932192 dbid:177932152 dbid:177932112 dbid:177932072 dbid:177932032 dbid:177931992 dbid:177931952 dbid:177931912 dbid:177931872 dbid:177931832 dbid:177931792 dbid:177931752 dbid:177931712 dbid:177931672 dbid:177931632 dbid:177931592 dbid:177931552 dbid:177931512 dbid:177932392)
+Info: Can not start path from (dbid:177932352 dbid:177932312 dbid:177932272 dbid:177932232 dbid:177932192 dbid:177932152 dbid:177932112 dbid:177932072 dbid:177932032 dbid:177931992 dbid:177931952 dbid:177931912 dbid:177931872 dbid:177931832 dbid:177931792 dbid:177931752 dbid:177931712 dbid:177931672 dbid:177931632 dbid:177931592 dbid:177931552 dbid:177931512 dbid:177932392)
+A total of 1 shapes were created.
+There are segments remaining which do not form a closed shape based on current gap settings.
+Use the "Close Shape" option from the RMB popup to close any shape(s) left open.
+current class name(ETCH)
+Find smallest gap failed. Be cautious, this may not be an error
+Retrieve closedLoop with segments (nil) failed
+Info: Can not start path from (dbid:177932352 dbid:177932312 dbid:177932272 dbid:177932232 dbid:177932192 dbid:177932152 dbid:177932112 dbid:177932072 dbid:177932032 dbid:177931992 dbid:177931952 dbid:177931912 dbid:177931872 dbid:177931832 dbid:177931792 dbid:177931752 dbid:177931712 dbid:177931672 dbid:177931632 dbid:177931592 dbid:177931552 dbid:177931512 dbid:177932392)
+Info: Can not start path from (dbid:177932352 dbid:177932312 dbid:177932272 dbid:177932232 dbid:177932192 dbid:177932152 dbid:177932112 dbid:177932072 dbid:177932032 dbid:177931992 dbid:177931952 dbid:177931912 dbid:177931872 dbid:177931832 dbid:177931792 dbid:177931752 dbid:177931712 dbid:177931672 dbid:177931632 dbid:177931592 dbid:177931552 dbid:177931512 dbid:177932392)
+A total of 1 shapes were created.
+There are segments remaining which do not form a closed shape based on current gap settings.
+Use the "Close Shape" option from the RMB popup to close any shape(s) left open.

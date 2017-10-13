@@ -1,0 +1,36 @@
+\t (00:10:17) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (00:10:17)     Journal start - Tue Sep 05 21:54:06 2017
+\t (00:10:17)         Host=YUAN User=Yuan Pid=12084 CPUs=4
+\t (00:10:17) 
+\i (00:10:20) FORM padedit grid row begin_layer 
+\i (00:10:24) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:10:25) setwindow form.padcopy
+\i (00:10:25) FORM padcopy pse_copy_therm_pad NO 
+\i (00:10:26) FORM padcopy pse_copy_anti_pad NO 
+\i (00:10:26) FORM padcopy pse_copy_ud_masks YES 
+\i (00:10:27) FORM padcopy pse_copy_ud_masks NO 
+\i (00:10:27) FORM padcopy pse_copy_soldermask YES 
+\i (00:10:28) FORM padcopy pse_copy_pastemask YES 
+\i (00:10:29) FORM padcopy pse_copy_done  
+\i (00:10:34) setwindow form.padedit
+\i (00:10:34) FORM padedit width 1.6000 
+\i (00:10:38) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:10:39) setwindow form.padcopy
+\i (00:10:39) FORM padcopy pse_copy_therm_pad NO 
+\i (00:10:39) FORM padcopy pse_copy_anti_pad NO 
+\i (00:10:40) FORM padcopy pse_copy_ud_masks YES 
+\i (00:10:41) FORM padcopy pse_copy_ud_masks NO 
+\i (00:10:41) FORM padcopy pse_copy_soldermask YES 
+\i (00:10:41) FORM padcopy pse_copy_pastemask YES 
+\i (00:10:42) FORM padcopy pse_copy_done  
+\i (00:10:44) setwindow form.padedit
+\i (00:10:44) FORM padedit grid row soldermask_top 
+\i (00:10:47) FORM padedit width 1.7000 
+\i (00:10:49) FORM padedit grid row soldermask_bottom 
+\i (00:10:52) FORM padedit width 1.7000 
+\i (00:10:59) pse_save 
+\i (00:11:00) fillin yes 
+\i (01:24:43) FORM padedit parameters  
+\i (01:24:47) FORM padedit layers  
+\i (01:25:00) pse_exit
+\t (01:25:00)     Journal end - Tue Sep 05 23:08:48 2017

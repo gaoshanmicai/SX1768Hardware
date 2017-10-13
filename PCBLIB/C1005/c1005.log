@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : c1005.dra                                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Sep 06 22:13:53 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/PCBTest/PCB812/PCBLIB/C1005
+    Name      = c1005.psm
+    User      = Yuan
+    Machine   = YUAN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

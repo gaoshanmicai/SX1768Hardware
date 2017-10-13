@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Compose Shapes                                                   )
+(                                                                     )
+(    Drawing          : fshape.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Jul 08 17:10:32 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+WARNING(SPMHIS-473): 2 selected items completely overlapped with segments from other selected items and have been filtered.
+current class name(ETCH)
+Retrieve closedLoop with segments (nil) failed
+Info: Can not start path from (dbid:177939384 dbid:177939424 dbid:177939464 dbid:177939504 dbid:177939544 dbid:177939584 dbid:177939624 dbid:177939664 dbid:177939704 dbid:177939744 dbid:177939784 dbid:177939824 dbid:177939864 dbid:177939904 dbid:177939944 dbid:177939984 dbid:177940024 dbid:177940064 dbid:177940104 dbid:177940144 dbid:177940184 dbid:177940224 dbid:177940264)
+Info: Can not start path from (dbid:177939384 dbid:177939424 dbid:177939464 dbid:177939504 dbid:177939544 dbid:177939584 dbid:177939624 dbid:177939664 dbid:177939704 dbid:177939744 dbid:177939784 dbid:177939824 dbid:177939864 dbid:177939904 dbid:177939944 dbid:177939984 dbid:177940024 dbid:177940064 dbid:177940104 dbid:177940144 dbid:177940184 dbid:177940224 dbid:177940264)
+A total of 1 shapes were created.
+There are segments remaining which do not form a closed shape based on current gap settings.
+Use the "Close Shape" option from the RMB popup to close any shape(s) left open.

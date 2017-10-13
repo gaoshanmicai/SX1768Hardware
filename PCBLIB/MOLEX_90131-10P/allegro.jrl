@@ -1,0 +1,22 @@
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Tue Jun 06 21:30:18 2017
+\t (00:00:02)         Host=YUAN User=Yuan Pid=7780 CPUs=4
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Database opened: F:/PCBTest/PCB812/PCBLIB/MOLEX_90131-10P/molex_90131-10p.dra
+   (00:00:04) Loading cmds.cxt 
+\i (00:00:04) trapsize 3693
+\i (00:00:05) trapsize 3440
+\i (00:00:05) trapsize 3718
+\i (00:00:05) trapsize 3448
+\i (00:00:06) trapsize 2477
+\i (00:00:06) trapsize 3448
+\i (00:00:07) generaledit 
+\i (00:00:09) open 
+\i (00:00:22) fillin "F:\PCBTest\PCB812\PCBLIB\105017-0001.dra"
+\i (00:00:22) cd "F:\PCBTest\PCB812\PCBLIB"
+\t (00:00:22) Opening existing design...
+\t (00:00:23) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:23) trapsize 869
+\t (00:00:23)     Journal end - Tue Jun 06 21:30:40 2017
